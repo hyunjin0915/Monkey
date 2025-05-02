@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d777d270cee3a5c419cb21a828556f1a, type: 3}
+  m_Name: CodeMonkeyFreeSO
+  m_EditorClassIdentifier: 
+  currentVersion: 1.00
+  subtype: tictactoengofree
+  lastShownTimestamp: 1746176024
+  lastUpdateResponse:
+    version: 1.00
+    versionUrl: https://unitycodemonkey.com
+  checkedLastUpdateTimestamp: 1746176024
+  lastQOTDResponse:
+    questionId: 176
+    questionText: 'Let''s say I saved my game data in a text file and I am now trying
+      to load it, does this work?
+
+      <p>string savedHealthData = "100";</p>
+
+      <p>int
+      healthAmount = savedHealthData;</p>'
+    answerA: Yes
+    answerB: No
+    answerC: Yes but healthAmount will be 0
+    answerD: 
+    answerE: 
+  lastQotdTimestamp: 1746176024
+  lastDynamicHeaderResponse:
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/assetStoreSpringSale25.png
+    topText: Spring Sale on the Asset Store, browse the Daily FLASH DEALS list to
+      see what will be 70% OFF!
+    topLink: unityassetstore
+    bottomText: Learn to get more WISHLISTS and SALES! (Spring Sale Discount Ends
+      SOON!)
+    bottomLink: howtomarketagame
+  lastDynamicHeaderTimestamp: 1746176024
+  websiteLatestMessage:
+    text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
+      Click here!</a>
+  websiteLatestMessageTimestamp: 1746176024
+  websiteLatestVideos:
+    videos:
+    - youTubeId: IdsXZHcgHSU
+      title: The ONE Asset you MUST HAVE!
+    - youTubeId: YS6Jhj0nqgc
+      title: Do Gamers recognize Asset Packs?
+    - youTubeId: 6IF6Sgoj4R4
+      title: What makes a Game LOW EFFORT?
+    - youTubeId: WMYY2GBjdcE
+      title: AWESOME Assets 70% OFF! (Make something FUN with the Spring Sale!)
+  websiteLatestVideosTimestamp: 1746176024
